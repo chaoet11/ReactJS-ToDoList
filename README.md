@@ -17,6 +17,7 @@ A simple ToDoList with React.
 ## 💻 Demo Screenshot
 
 ![](imgs//To-Do-List-screenshot.png)
+
 ![](imgs//To-Do-List-demo.gif)
 
 ## 🚀 Getting Started
@@ -24,13 +25,13 @@ A simple ToDoList with React.
 1. Install the packages
 
 ```
-$ npm install.
+$ npm install
 ```
 
 2. Run the server
 
 ```
-$ npm run dev.
+$ npm run dev
 ```
 
 3. Open http://localhost:3000 to view it in your browser.
