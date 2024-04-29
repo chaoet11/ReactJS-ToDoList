@@ -1,6 +1,6 @@
 # A simple ToDoList
 
-## Description
+## 📋 Description
 
 A simple ToDoList with React.
 
@@ -9,25 +9,36 @@ A simple ToDoList with React.
 - Update(Edit task)
 - Delete(Delete task)
 
-## Requirement
+## 🛠️ Technologies & Requirements
 
-- Node.js
+- Node.js (20.6)
+- React (18)
 
-## Demo Screenshot
+## 💻 Demo Screenshot
 
 ![](imgs//To-Do-List-screenshot.png)
 ![](imgs//To-Do-List-demo.gif)
 
-## Getting Started
+## 🚀 Getting Started
 
-Install the packages with $ npm install.
-Run the server with $ npm run dev.
-Open http://localhost:3000 to view it in your browser.
+1. Install the packages
 
-## Author
+```
+$ npm install.
+```
+
+2. Run the server
+
+```
+$ npm run dev.
+```
+
+3. Open http://localhost:3000 to view it in your browser.
+
+## 👤 Author
 
 Email:yiting536@gmail.com
 
-## Warning
+## ⭕️ Warning
 
 This is purely for practice and not for any profit-making purpose.Thanks!
